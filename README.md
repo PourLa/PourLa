@@ -1,4 +1,8 @@
+
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Hello world">
+
 <h1 align="center">Hi 👋, I'm Eren ÖZTÜRK</h1>
+
 <h3 align="center">Graduate of Econometrics and (International Trade and Logistics Management) - On the Path to Becoming a Data Scientist (🔎👔)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pourla&label=Profile%20views&color=0e75b6&style=flat" alt="pourla" /> </p>
@@ -12,6 +16,8 @@
 - 💬 Ask me about **Python ❤️**
 
 - 📫 How to reach me **eren_erdem555@hotmail.com**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77D29&width=435&lines=Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
