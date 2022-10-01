@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pourla&label=Profile%20views&color=0e75b6&style=flat" alt="pourla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pourla" alt="pourla" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=pourla&theme=radical)](https://github.com/pourla/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/love_to_death01" target="blank"><img src="https://img.shields.io/twitter/follow/love_to_death01?logo=twitter&style=for-the-badge" alt="love_to_death01" /></a> </p>
 
