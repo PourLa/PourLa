@@ -20,12 +20,12 @@
  </tr>
 </table>
 
+<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pourla&label=Profile%20views&color=0e75b6&style=flat" alt="pourla" /> </p>
 <p align="left"> <a href="https://twitter.com/love_to_death01" target="blank"><img src="https://img.shields.io/twitter/follow/love_to_death01?logo=twitter&style=for-the-badge" alt="love_to_death01" /></a> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77D29&width=435&lines=Welcome+to+My+Profile!)](https://git.io/typing-svg)
-
-<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
 - 🌱 I’m currently learning **Data Science 🚀**
 
