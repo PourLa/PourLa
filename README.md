@@ -1,9 +1,6 @@
-
-![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
+[![Header](https://github.com/PourLa/kodluyoruzilkrepo/blob/PourLa/header.png)](https://app.patika.dev/PourLa)
 
 <h1 align="center">Hi 👋, I'm Eren ÖZTÜRK</h1>
-
-
 
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
@@ -17,7 +14,6 @@
 - 💬 Ask me about **Python ❤️**
 
 - 📫 How to reach me **eren_erdem555@hotmail.com**
-
 
 <i><h3 align="left">Connect with me:</h3></i>
 
@@ -55,7 +51,5 @@
 </table>
 <br>
 
-
-
-
+![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
