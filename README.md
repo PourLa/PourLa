@@ -1,7 +1,5 @@
 [![Header](https://github.com/PourLa/kodluyoruzilkrepo/blob/PourLa/header.png)](https://app.patika.dev/PourLa)
 
-<h1 align="center">Hi 👋, I'm Eren ÖZTÜRK</h1>
-
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pourla&label=Profile%20views&color=0e75b6&style=flat" alt="pourla" /> </p>
