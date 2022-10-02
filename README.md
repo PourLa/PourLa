@@ -1,6 +1,8 @@
 [![Header](https://github.com/PourLa/kodluyoruzilkrepo/blob/PourLa/header1.png)](https://app.patika.dev/PourLa)
 
-<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+<img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" width="300" align="right">
+
+![1 gif](https://github.com/PourLa/kodluyoruzilkrepo/blob/PourLa/1.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pourla&label=Profile%20views&color=0e75b6&style=flat" alt="pourla" /> </p>
 <p align="left"> <a href="https://twitter.com/love_to_death01" target="blank"><img src="https://img.shields.io/twitter/follow/love_to_death01?logo=twitter&style=for-the-badge" alt="love_to_death01" /></a> </p>
@@ -50,4 +52,6 @@
 <br>
 
 ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
+
+
 
