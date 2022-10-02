@@ -2,6 +2,8 @@
 
 <img src="https://github.com/PourLa/kodluyoruzilkrepo/blob/PourLa/2.gif" width="300" align="right">
 
+<img src="https://media.giphy.com/media/1jajRMyzk2jySFrJoY/giphy.gif" width="300" align="right">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pourla&label=Profile%20views&color=0e75b6&style=flat" alt="pourla" /> </p>
 <p align="left"> <a href="https://twitter.com/love_to_death01" target="blank"><img src="https://img.shields.io/twitter/follow/love_to_death01?logo=twitter&style=for-the-badge" alt="love_to_death01" /></a> </p>
 
@@ -52,4 +54,17 @@
 ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
 
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (2.gif) -->
+<img src="https://github.com/PourLa/kodluyoruzilkrepo/blob/PourLa/2.gif" width="480" height="480" alt="">
+<!-- End Save for Web Slices -->
+</body>
+</html>
 
