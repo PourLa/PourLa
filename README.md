@@ -61,5 +61,5 @@
 <!-- Uyarı -->
 ## ⚠️ Uyarı
 
-Bu profil ve içeriği, [![PourLa](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ozern) tarafından oluşturulmuştur ve telif hakkı ile korunmaktadır. İzinsiz kopyalanması, değiştirilmesi veya yeniden kullanılması yasaktır.
+Bu profil ve içeriği,  [![PourLa](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ozern)  tarafından oluşturulmuştur ve telif hakkı ile korunmaktadır. İzinsiz kopyalanması, değiştirilmesi veya yeniden kullanılması yasaktır.
 
