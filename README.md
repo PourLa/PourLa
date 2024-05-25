@@ -17,7 +17,7 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/pourlatv)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ern.ys)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/Love_to_Death01)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/eren-öztürk-87114616a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ozern)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/LoveToDeath01)
 
 ## 🛠️ My Favorite Tools
@@ -57,3 +57,9 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pourla&theme=merko&hide_border=true" /></td>
   </tr>
 </table>
+
+<!-- Uyarı -->
+## ⚠️ Uyarı
+
+Bu profil ve içeriği, [![PourLa](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ozern) tarafından oluşturulmuştur ve telif hakkı ile korunmaktadır. İzinsiz kopyalanması, değiştirilmesi veya yeniden kullanılması yasaktır.
+
